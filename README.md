@@ -1,6 +1,7 @@
 # Hey, can I tell you a little about me? 😀
 
 My name is Rafael Victor, I'm a Brazilian Jr FullStack Dev. 🟢🟡
+
 ✅ I study Information Systems at IFMG - Sabará.
 ✅ I've been working as a developer since 2019.
 
