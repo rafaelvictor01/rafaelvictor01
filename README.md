@@ -1,6 +1,6 @@
 # Hey, can I tell you a little about me? 😀
 
-My name is Rafael Victor, I'm a Brazilian FullStack Dev. 🟢🟡
+My name is Rafael Victor, I'm a Brazilian Full Stack Dev. 🟢🟡
 
 ✅ I study Information Systems at IFMG - Sabará.
 
