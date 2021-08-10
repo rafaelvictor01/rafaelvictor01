@@ -6,16 +6,6 @@ My name is Rafael Victor, I'm a Brazilian Full Stack Dev. 🟢🟡
 
 ✅ I've been working as a developer since 2019.
 
-### Favorite Tools
-
-<ul>
-  <li> <b> ReactJs 👑</b> </li>
-  <li> <b> NodeJs </b> </li>
-  <li> <b> JavaScript and Typescript </b> </li>
-  <li> <b> C# </b> </li>
-  <li> <b> Java </b> </li>
-</ul>
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rafaelvictor01&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/rafaelvictor01/github-readme-stats)
 
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaelvictor01">
