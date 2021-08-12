@@ -4,7 +4,7 @@
 
 ✅ I study Information Systems at IFMG - Sabará.
 
-✅ I've been working as a developer since 2019.
+✅ I've been working as a developer since 2019. (*But, typically, enterprises provide corporate accounts on github. So... my personal repository is not always updated* 😅)
 
 
 <div align="right"> 
