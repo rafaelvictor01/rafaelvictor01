@@ -37,7 +37,7 @@
   <a href="https://github.com/rafaelvictor01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvictor01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
-    &nbsp;&nbsp;
+    &nbsp;
   <a href="https://github.com/rafaelvictor01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvictor01&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
