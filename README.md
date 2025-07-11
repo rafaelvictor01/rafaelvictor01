@@ -1,4 +1,3 @@
-
 <!-- Banner lateral -->
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
@@ -11,7 +10,46 @@ Ao longo da minha trajetória, tive a oportunidade de atuar em empresas de grand
 
 Sou especializado na atuação com **ReactJS**, **Next.js**, **.NET (.NET Core / Framework)** e **Java**, mas também já trabalhei com **React Native**, **Angular**, **Node.js** e **Python**. De todo modo, me considero um desenvolvedor **agnóstico a tecnologias**, com foco em entregar valor e soluções robustas, escaláveis e orientadas à experiência do usuário. Então, estou sempre pronto para encarar um novo desafio e aprender uma nova stack! 🚀
 
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+  Principais tecnologias do meu dia a dia
+</h2>
+
+<!-- Icones Stacks -->
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <p><img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,nextjs,nodejs,angular,py,spring" /></p>
+  <p><img src="https://skillicons.dev/icons?i=redux,jest,tailwind,styledcomponents,materialui,git,github,azure,docker,figma" /></p>
+
+</div>
+
+<br/>
+
+<!-- Cartões de estatísticas -->
+
+<div align="center">  
+  <img 
+    width="49%"
+    height="195px" 
+    alt="Rafael Bernardes - GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=rafaelvictor01&show_icons=true&count_private=true&hide_border=true&title_color=e31b25&icon_color=e31b25&text_color=c9d1d9&bg_color=0d1117" 
+  /> 
+  <img 
+    width="41%"
+    height="195px" 
+    alt="Rafael Bernardes - Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvictor01&layout=compact&hide_border=true&title_color=e31b25&text_color=e31b25&bg_color=0d1117"
+  />
+</div>
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" />
+ Vamos nos conectar?
+</h2>
+
+<p>
 ⚠️ Infelizmente o meu GitHub pessoal nem sempre reflete todo o meu trabalho — muitos dos projetos em que atuei são privados, corporativos e até mesmo sigilosos 👀. Ainda assim, se algo aqui lhe chamar a atenção, será um prazer conversar com você! Estou disponível em: 
+</p>
 
 <!-- Redes Sociais -->
 
@@ -27,36 +65,6 @@ Sou especializado na atuação com **ReactJS**, **Next.js**, **.NET (.NET Core /
   <a href="https://www.linkedin.com/in/dev-rafaelbernardes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<!-- Cartões de estatísticas -->
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <a href="https://github.com/rafaelvictor01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvictor01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/rafaelvictor01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvictor01&layout=compact&langs_count=7&theme=tokyonight" />
-  </a>
-</div>
-
-<br/>
-<br/>
-
-<!-- Icones Stacks -->
-
-<div align="center">
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
