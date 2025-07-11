@@ -1,19 +1,21 @@
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECED&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Rafael!;Que+bom+que+voc%C3%AA+est%C3%A1+aqui!+" alt="Typing SVG" /></a></h1>
+
 <!-- Banner lateral -->
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
-
-# 👋 Olá, eu sou o Rafael!
 
 Sou desenvolvedor Full Stack desde 2019 e Bacharel em **Sistemas de Informação** pelo [Instituto Federal de Minas Gerais – IFMG (Sabará)](https://www.ifmg.edu.br/sabara).
 
 Ao longo da minha trajetória, tive a oportunidade de atuar em empresas de grande porte como **Cyrela**, **PETRONAS** e **Stellantis**, liderando e participando de projetos estratégicos de alto impacto para estas empresas.
 
-Sou especializado na atuação com **ReactJS**, **Next.js**, **.NET (.NET Core / Framework)** e **Java**, mas também já trabalhei com **React Native**, **Angular**, **Node.js** e **Python**. De todo modo, me considero um desenvolvedor **agnóstico a tecnologias**, com foco em entregar valor e soluções robustas, escaláveis e orientadas à experiência do usuário. Então, estou sempre pronto para encarar um novo desafio e aprender uma nova stack! 🚀
+Sou especializado na atuação com **ReactJS**, **Next.js**, **.NET (.NET Core / Framework)** e **Java**, mas também já trabalhei com **React Native**, **Angular**, **Node.js** e **Python**. De todo modo, me considero um desenvolvedor **agnóstico a tecnologias**, com foco em entregar valor e soluções robustas, escaláveis e orientadas à experiência do usuário. Então, estou sempre pronto para encarar um novo desafio e aprender uma nova stack!
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
   Principais tecnologias do meu dia a dia
 </h2>
+
+<br/>
 
 <!-- Icones Stacks -->
 
@@ -32,13 +34,13 @@ Sou especializado na atuação com **ReactJS**, **Next.js**, **.NET (.NET Core /
     width="49%"
     height="195px" 
     alt="Rafael Bernardes - GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelvictor01&show_icons=true&count_private=true&hide_border=true&title_color=e31b25&icon_color=e31b25&text_color=c9d1d9&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api?username=rafaelvictor01&show_icons=true&count_private=true&hide_border=true&title_color=4acd93&icon_color=4acd93&text_color=c9d1d9&bg_color=0d1117" 
   /> 
   <img 
     width="41%"
     height="195px" 
     alt="Rafael Bernardes - Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvictor01&layout=compact&hide_border=true&title_color=e31b25&text_color=e31b25&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvictor01&layout=compact&hide_border=true&&title_color=4acd93&icon_color=4acd93&text_color=c9d1d9&bg_color=0d1117"
   />
 </div>
 
